@@ -1,6 +1,6 @@
 streamlit
 numpy
-librosa
 scikit-learn
 joblib
 soundfile
+librosa==0.10.1

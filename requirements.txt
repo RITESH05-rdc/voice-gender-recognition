@@ -3,4 +3,5 @@ numpy
 scikit-learn
 joblib
 soundfile
+matplotlib==3.7.3
 librosa==0.10.1
